@@ -1,3 +1,3 @@
 # predicting-user-churn
 
-Перед вами решение учебно-тренировочной ML-задачи с курса DeepLearningSchool от МФТИ.
+Решение стандартной учебно-тренировочной ML-задачи с курса DeepLearningSchool от МФТИ.
